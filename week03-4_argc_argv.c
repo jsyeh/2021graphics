@@ -1,5 +1,6 @@
 ///把第1個範例 OpenGL, 拿來亂改
 ///把第1個Project變 *粗黑色* Active
+
 #include <stdio.h>
 int main( int argc, char** argv)
 {
